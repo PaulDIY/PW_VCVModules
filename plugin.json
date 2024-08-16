@@ -1,0 +1,33 @@
+{
+  "slug": "PW",
+  "name": "PW",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "PW",
+  "author": "Paul Wollstadt",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "No01",
+      "name": "No01",
+      "description": "simple sine oscillator",
+      "tags": [
+        "oscillator"
+      ]
+    },
+    {
+      "slug": "No02",
+      "name": "No02",
+      "description": "5 sine oscillators",
+      "tags": [
+        "oscillator"
+      ]
+    }
+  ]
+}
